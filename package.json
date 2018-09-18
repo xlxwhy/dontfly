@@ -1,0 +1,19 @@
+{
+  "name": "dontfly",
+  "version": "0.0.1",
+  "description": "dontfly",
+  "main": "index.js",
+  "scripts": {
+    "test": "dontfly"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "xlxwhy",
+  "license": "ISC",
+  "dependencies": {}
+}
