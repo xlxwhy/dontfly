@@ -1,19 +1,23 @@
 {
   "name": "dontfly",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "dontfly",
   "main": "index.js",
   "scripts": {
-    "test": "dontfly"
+    "test": " "
   },
   "repository": {
     "type": "git",
-    "url": "no"
+    "url": "https://github.com/xlxwhy/dontfly.git"
   },
   "keywords": [
     "no"
   ],
   "author": "xlxwhy",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "request": "2.88.0",
+    "bluebird": "3.5.2",
+    "jssha": "2.3.1"
+  }
 }
