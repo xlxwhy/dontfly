@@ -1,6 +1,6 @@
 {
   "name": "dontfly",
-  "version": "0.0.4",
+  "version": "0.0.8",
   "description": "dontfly",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "no"
   ],
   "author": "xlxwhy",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "request": "2.88.0",
     "bluebird": "3.5.2",
